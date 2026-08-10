@@ -1,3 +1,16 @@
+# ⚰️ FOLDED into [lightwave-media/lightwave-ai](https://github.com/lightwave-media/lightwave-ai) — `src/nullbuilder/`
+
+> **This repository is archived and read-only. Do not push.**
+>
+> Folded with **full git history** into the lightwave-ai monorepo at
+> [`src/nullbuilder/`](https://github.com/lightwave-media/lightwave-ai/tree/main/src/nullbuilder) at `dd64006a6`, 2026-08-10
+> (epic [lightwave-ai#44](https://github.com/lightwave-media/lightwave-ai/issues/44)).
+>
+> Open issues were transferred and relabelled `package:nullbuilder`. Tags moved as `nullbuilder/vX.Y.Z`.
+> The public `nullclaw/nullbuilder` upstream (where one exists) is unaffected.
+
+---
+
 # nullbuilder
 
 Shared GitHub Actions workflows for NullClaw Zig projects.
